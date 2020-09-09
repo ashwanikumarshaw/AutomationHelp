@@ -1,0 +1,15 @@
+https://automationtalks.com/2017/08/05/javascriptexecutor-selenium/
+
+https://www.softwaretestingmaterial.com/javascriptexecutor-selenium-webdriver/
+https://www.swtestacademy.com/selenium-javascriptexecutor/
+https://www.seleniumeasy.com/selenium-tutorials/click-element-using-javascriptexecutor
+
+https://www.toolsqa.com/selenium-webdriver/javascript-and-selenium-javascriptexecutor/
+
+
+https://chercher.tech/java/javascript-executor-selenium-webdriver
+
+
+https://intellipaat.com/community/9619/webdriver-executeasyncscript-vs-executescript
+
+https://github.com/anshulc55/JavaTraining/blob/master/FirstSeleniumProject/src/com/selenium/masterpart1/FindBrokenLink.java

@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=P_9tlm-VZGQ
+
+https://www.seleniumeasy.com/selenium-tutorials/read-data-from-properties-file-using-java-selenium
+
+https://chercher.tech/java/properties-file-read-write-java-selenium-webdriver
+
+https://www.swtestacademy.com/read-configurations-property-file-selenium/
+https://www.youtube.com/watch?v=1GeVbi1uj_8
