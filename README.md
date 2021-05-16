@@ -1,4 +1,4 @@
-# SeleniumHelp
+# Automation 
 
 ## Some HELPING codes for Java Selenium
 
