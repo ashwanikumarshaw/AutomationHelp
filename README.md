@@ -1,6 +1,6 @@
 # Automation 
 
-## Some HELPING codes for Java Selenium
+## Some HELPING codes and notes for Java Selenium
 
 https://github.com/ashwanikumarshaw/SeleniumHelp/tree/master/src
 
